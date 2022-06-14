@@ -76,6 +76,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
    crm route (/login)
 
 ## login details
-
-username: admin@app.io
+Admin User
+username: admin@blog.io
 password: password
+
+Test User
+username: test@blog.io
+password: password
+

@@ -1,0 +1,27 @@
+Social Media Details
+
+Email Details
+wadoc7435@gmail.com
+9@5sw04D4w@6ocIty
+Feb 08 1990
+
+Youtube Channel
+https://www.youtube.com/channel/UCQnn4VK3GSVC4vjACwV5hGg
+Wado City News
+
+Whogohost Hosting Details
+cPanel URL: http://www.wadocityreporters.org.ng/cpanel (or http://23.94.16.6/cpanel)
+Username: wadocity
+Password: 5e4U(s3LwCzX:1
+
+Database Details
+Database: wadocity_wado_reporters
+User: wadocity_reporters
+password: J6inB{qg@n&d
+
+Backend admin login
+https://www.wadocityreporters.org.ng/login
+email: admin@wadoreporters.org.ng
+Password: )O-UA-vWxhkR 
+
+
